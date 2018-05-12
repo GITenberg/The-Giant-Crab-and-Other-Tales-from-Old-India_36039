@@ -1,0 +1,49 @@
+_repo: The-Giant-Crab-and-Other-Tales-from-Old-India_36039
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rouse, W. H. D. (William Henry Denham)
+    alias: Rouse, William Henry Denham
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '34722'
+    url: http://www.gutenberg.org/2009/agents/34722
+description: A collection of Indian folktales, including 'The Lion and the Boar,'
+  'The Pious Wolf,' 'The Monkeys and the Gardener,' 'The Goblin and the Sneeze,' 'The
+  Mouse and the Farmer,' and others.
+gutenberg_issued: '2011-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- India'
+- !lcsh 'Tipitaka. Suttapitaka. Khuddakanikaya. Jataka -- Paraphrases, English'
+- !lcc 'BQ'
+- !lcc 'GR'
+tableOfContents: The giant crab -- The hypocritical cat -- The crocodile and the monkey
+  -- The axe, the drum, the bowl, and the diamond -- The wise parrot and the foolish
+  parrot -- The dishonest friend -- The mouse and the farmer -- The talkative tortoise
+  -- The monkeys and the gardener -- The goblin and the sneeze -- The grateful beasts
+  and the ungrateful prince -- The goblin in the pool -- The foolish farmer and the
+  king -- The pious wolf -- Birds of a feather -- Spend a pound to win a penny --
+  The cunning crane and the crab -- Union is strength -- Silence is golden -- The
+  great yellow king and his porter -- The quail and the falcon -- Pride must have
+  a fall -- The bold beggar -- The jackal would a-wooing go -- The lion and the boar
+  -- The goblin city -- Lacknose -- The king's lesson.
+title: The Giant Crab, and Other Tales from Old India
+url: http://www.gutenberg.org/ebooks/36039
