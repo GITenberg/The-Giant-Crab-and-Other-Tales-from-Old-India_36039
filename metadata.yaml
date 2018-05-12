@@ -22,6 +22,8 @@ creator:
 description: A collection of Indian folktales, including 'The Lion and the Boar,'
   'The Pious Wolf,' 'The Monkeys and the Gardener,' 'The Goblin and the Sneeze,' 'The
   Mouse and the Farmer,' and others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36039#The-Giant-Crab-and-Other-Tales-from-Old-India
 gutenberg_issued: '2011-05-05'
 gutenberg_type: Text
 identifiers:
